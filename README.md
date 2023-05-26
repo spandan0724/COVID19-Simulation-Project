@@ -46,12 +46,8 @@ The simulation provides two types of visualizations:
 
 Contributions to the COVID-19 simulation project are welcome. If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-The simulation code was created using R and the ggplot2 library. Acknowledgments go to the developers of R and ggplot2 for providing the tools necessary to create this simulation.
 
 Feel free to modify and adapt the code according to your needs. If you have any questions or need further assistance, please let me know.
